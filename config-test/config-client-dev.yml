@@ -1,1 +1,8 @@
-q
+server:
+  port: 7778 # 端口
+
+spring:
+  application:
+    name: config-client # 應用名稱
+
+name: config-client-dev # 自定義配置
