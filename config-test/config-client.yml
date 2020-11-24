@@ -1,1 +1,8 @@
-1
+server:
+  port: 7777 # 端口
+
+spring:
+  application:
+    name: config-client # 應用名稱
+
+name: config-client-defualt # 自定義配置
