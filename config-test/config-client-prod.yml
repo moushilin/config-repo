@@ -1,1 +1,8 @@
-qq
+server:
+  port: 7780
+
+spring:
+  application:
+    name: config-client
+
+name: config-client-prod
